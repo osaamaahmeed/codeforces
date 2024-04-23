@@ -4,5 +4,8 @@ using namespace std;
 
 int main () {
   int a,b,h,m; cin >> a >>b >> h >>m;
-  if (h - m < )
+  m = m / 10;
+  if (abs(h - m) == 1) {
+
+  }
 }
