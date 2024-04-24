@@ -1,20 +1,17 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-#define ll long long
 
 int main () {
-  int n,m; cin >> n >> m;
-  int arrA[n]; int arrB[m];
-  for (int i = 0; i < n; i++) cin >> arrA[n];
-  for (int i = 0; i < m; i++) cin >> arrB[m];
+  int n,m; cin >> n >>m ;
+  int arrA[n], arrB[m];
+  for (int i = 0; i < n; i++) cin >> arrA[i];
+  for (int i = 0; i < m; i++) cin >> arrB[i];
   
-  for (int i = 0; i < m; i++)
+  int j = 0;
+  for (int i = 0; i < n; i++)
   {
-    for (int j = 0; j < n; j++)
-    {
-      if (arrB[i] != arrA[j]) {cout << "NO"; return 0;}
-      else break;
-    }
+    if (arrA[i] == arrB[j]) j++;
   }
-  cout << "YES";
+  if (j == m) cout << "YES";
+  else cout << "NO";
 }
