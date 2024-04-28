@@ -1,0 +1,3 @@
+I.Divisability:
+result = sum from 1 to max(a,b) * x - sum from 1 to ((min(a,b))/x) * x;
+
