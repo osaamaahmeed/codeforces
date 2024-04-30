@@ -3,5 +3,5 @@
 <br>
 🔴 <a href="https://codeforces.com/group/tAU3J8c1Jg/contests"> SCU Newcomers Contests #24 </a>
 <br>
-🔴 <a href="https://codeforces.com/group/EPR91AhbfQ/contests"> ICPC SCU 2024 Team Formation </a>   |   (██░░░░░░░░) 23%
+🔴 <a href="https://codeforces.com/group/EPR91AhbfQ/contests"> ICPC SCU 2024 Team Formation </a>... |   (██░░░░░░░░) 23%
 
