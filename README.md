@@ -55,16 +55,16 @@
 </details>
 <details>
   <summary>Div 2</summary>
-  🔴<a href="https://codeforces.com/contest/469"> Codeforces Round 268 (Div 2) </a> &nbsp&nbsp ░░░░ 0% <br>
   🔴 <a href="https://codeforces.com/contest/869"> Codeforces Round 439 (Div 2) </a> &nbsp&nbsp ░░░░ 0% <br>
+  🔴<a href="https://codeforces.com/contest/469"> Codeforces Round 268 (Div 2) </a> &nbsp&nbsp ░░░░ 0% <br>
 </details>
 <details>
   <summary>Div 3</summary>
-  🔴 <a href="https://codeforces.com/contest/1927">Codeforces Round 923 (Div 3) </a> &nbsp&nbsp ░░░░ 0% <br>
-  🔴 <a href="https://codeforces.com/contest/1931">Codeforces Round 925 (Div 3) </a> &nbsp&nbsp █░░░ 28% <br>
+  🔴 <a href="https://codeforces.com/contest/1931">Codeforces Round 925 (Div 3) </a> | Rated &nbsp&nbsp █░░░ 28% <br>
+  🔴 <a href="https://codeforces.com/contest/1927">Codeforces Round 923 (Div 3) </a> | Rated &nbsp&nbsp ░░░░ 0% <br>
 </details>
 <details>
   <summary>Div 4</summary>
-  🔴 <a href="https://codeforces.com/contest/1915">Codeforces Round 918 (Div 4) </a> &nbsp&nbsp █░░░ 42% <br>
+  🔴 <a href="https://codeforces.com/contest/1915">Codeforces Round 918 (Div 4)</a> | Rated &nbsp&nbsp █░░░ 42% <br>
 </details>
 </details>
