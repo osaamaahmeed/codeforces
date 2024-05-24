@@ -4,18 +4,14 @@ using namespace std;
 
 int main () {
   string s; cin >> s;
-  int size = s.size();
-  int indexF = 0, indexB = s.size()-1;
-  if (size % 2 == 0) {
-
-  } else if (size % 2 == 1) {
-    for (int i = 0; i < size; i++)  {
-      if (s[i] == '?') {
-        if (i )
-      }
-    }
-    
-  } else {
-    cout << "-1";
+  string original = s;
+  // if (find(s.begin(), s.end(), '?') == s.end()) {cout << s; return 0;}
+  // for (int i = 0; i < s.size(); i++) {
+  //   if ()
+  // }
+  reverse(s.begin(), s.end());
+  for (int i = 0; i < s.size(); i++) {
+    if (s[i] == '?') s[i] = original[i];
   }
+  cout << s;
 }
