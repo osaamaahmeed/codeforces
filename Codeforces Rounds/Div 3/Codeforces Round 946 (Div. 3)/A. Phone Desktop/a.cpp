@@ -7,10 +7,14 @@ int main () {
   while (t--) {
     int x,y; cin >> x >> y;
     int screen = 15;
-    int counter = 1;
+    int counter = 0;
     int a = 1,b = 4;
-    while ((a*x) + (b*y) > screen) {
-      screen += 15;
+    int temp = y;
+    while (temp > 0) {
+      counter++;
+      temp-=2;
+    }
+    while ((counter*screen) < ((a*x) + (b*y))) {
       counter++;
     }
     cout << counter << endl;
