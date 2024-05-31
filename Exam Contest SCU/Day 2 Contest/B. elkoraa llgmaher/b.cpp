@@ -5,6 +5,19 @@ using namespace std;
 int main () {
   ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
   string s; cin >> s;
-  if (s.find("0000000") || s.find("1111111")) cout << "YES";
-  else cout << "NO";
+  bool print = false;
+  if (s.size() < 7) cout << "NO";
+  else {
+    for (int i = 0; i < s.size(); i++) {
+      bool flag = true;
+      for (int j = i+1; j < i+7; j++) {
+        if (s[i] != s[j]) {
+          flag = false;
+          break;
+        }
+      }
+      if (flag) {print = true; break;}
+    }
+    print ? cout << "YES" : cout << "NO";
+  }
 }
