@@ -9,7 +9,7 @@
   Sheet #5 (Functions) &nbsp&nbsp ░░░░ 0% <br>
   Sheet #6 (Math - Geometry) &nbsp&nbsp ░░░░ 0% <br>
   Sheet #7 (Recursion) &nbsp&nbsp ░░░░ 0% <br>
-  Sheet #8 (General easy) &nbsp&nbsp ░░░░ 0% <br>
+  Sheet #8 (General easy) &nbsp&nbsp ███░ 76% <br>
   Sheet #9 (General medium) &nbsp&nbsp ░░░░ 0% <br>
   Sheet #10 (General Hard) &nbsp&nbsp ░░░░ 0% <br>
   <br>
