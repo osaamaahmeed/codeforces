@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> **This repo is archived.** <br><br> All my Problem Solving work now lives in
+> **[osaamaahmeed/Problem-Solving](https://github.com/osaamaahmeed/Problem-Solving)**: <br><br>
+> The solutions from this repo are kept there under `archive/`.
+> 
+
+<br>
+<br>
+<br>
+<br>
+
 <h2> Solving Problems on Codeforces Website ^_^ </h2>
 🔴 <a href="https://codeforces.com/group/MWSDmqGsZm/contests"> Assiut University Training - Newcomers </a> &nbsp;&nbsp; <span> (█░░░░░░░░░) 10% </span> &nbsp;&nbsp; <i> ~currently solving~ </i>
 <details>
